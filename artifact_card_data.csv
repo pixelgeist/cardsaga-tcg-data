@@ -1,0 +1,8 @@
+Copies	Card Nickname	id	image	title	text	mana	attack	hp
+1	bottled_message	bottled_message		Bottled Message	"When a blue creature you own dies, draw a card."	2	0	5
+1	dawn_orb	dawn_orb		Dawn Orb	"<b>Start of turn: </b>All green cards heal by 3."	2	0	5
+1	flint	flint		Flint	"All red creatures gain: "Take 1 damage to gain +1 attack"."	2	0	5
+1	fountain	fountain		Fountain	"All blue cards cost 1 less."	3	0	7
+1	lantern	lantern		Lantern	"All red creatures have +2 attack."	3	0	7
+1	phoenix_egg	phoenix_egg		Phoenix Egg	"After 3 turns, transforms into a Phoenix."	0	0	3
+1	potted_plant	potted_plant		Potted Plant	"All green cards have +2 HP."	3	0	7
