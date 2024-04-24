@@ -1,0 +1,1 @@
+# cardsaga-tcg-data
